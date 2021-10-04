@@ -1,0 +1,15 @@
+
+  .Banner {
+    font: bold;
+    display: flex;
+    justify-content: center;
+
+  }
+
+  main {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
